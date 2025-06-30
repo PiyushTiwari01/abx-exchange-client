@@ -1,0 +1,14 @@
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\bin\Debug\net8.0\ABX_Client.exe
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\bin\Debug\net8.0\ABX_Client.deps.json
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\bin\Debug\net8.0\ABX_Client.runtimeconfig.json
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\bin\Debug\net8.0\ABX_Client.dll
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\bin\Debug\net8.0\ABX_Client.pdb
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\ABX_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\ABX_Client.AssemblyInfoInputs.cache
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\ABX_Client.AssemblyInfo.cs
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\ABX_Client.csproj.CoreCompileInputs.cache
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\ABX_Client.dll
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\refint\ABX_Client.dll
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\ABX_Client.pdb
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\ABX_Client.genruntimeconfig.cache
+C:\Users\Piyush Tiwari\source\repos\ABX_Client\obj\Debug\net8.0\ref\ABX_Client.dll

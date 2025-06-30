@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piyush Tiwari\\source\\repos\\ABX_Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC1F032-2DE4-4748-B6FD-3E5322121288}|ABX_Client.csproj|c:\\users\\piyush tiwari\\source\\repos\\abx_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC1F032-2DE4-4748-B6FD-3E5322121288}|ABX_Client.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC1F032-2DE4-4748-B6FD-3E5322121288}|ABX_Client.csproj|c:\\users\\piyush tiwari\\source\\repos\\abx_client\\abx_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAC1F032-2DE4-4748-B6FD-3E5322121288}|ABX_Client.csproj|solutionrelative:abx_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ABX_Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Piyush Tiwari\\source\\repos\\ABX_Client\\ABX_Client.csproj",
+              "RelativeDocumentMoniker": "ABX_Client.csproj",
+              "ToolTip": "C:\\Users\\Piyush Tiwari\\source\\repos\\ABX_Client\\ABX_Client.csproj",
+              "RelativeToolTip": "ABX_Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T11:55:18.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Piyush Tiwari\\source\\repos\\ABX_Client\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Piyush Tiwari\\source\\repos\\ABX_Client\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:49:48.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

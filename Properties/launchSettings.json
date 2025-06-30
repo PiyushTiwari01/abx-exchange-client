@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ABX_Client": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
